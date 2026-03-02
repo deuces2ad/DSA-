@@ -9,15 +9,11 @@ import Foundation
 
 func bubbleSort(_ nums: inout [Int]) -> [Int] {
     for i in 0..<nums.count {
-        print("when i = \(i)")
         for j in i + 1..<nums.count {
-            print("We will Check if \(nums[i]) is greater than \(nums[j]) or not")
-            if nums[j] < nums[i] {
-                print("\(nums[j]) is less than \(nums[i]), so Swapping")
+            if nums[j] < nums[i] {  // comparing i and i + 1
                 let temp = nums[i]
                 nums[i] = nums[j]
                 nums[j] = temp
-                print("so Swapping =",nums)
             }
         }
     }
