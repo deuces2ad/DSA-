@@ -42,5 +42,7 @@ myLinkedList.addAtTail(5)
 //    cur = cur?.next
 //}
 
-let ans = calcuateTheWordCharII("Hello World   ")
-print(ans)
+//let ans = calcuateTheWordCharII("Hello World   ")
+//print(ans)
+
+_ = isPalindromeStr("A man, a plan, a canal: Panama")
