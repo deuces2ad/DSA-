@@ -8,6 +8,7 @@
 import Foundation
 // https://leetcode.com/problems/longest-common-prefix/
 func longestCommonPrefix(_ strs: [String]) -> String {
+    let strSample = strs.first!.utf8
     if strs.isEmpty { return "" }
     let first = strs[0]
     for i in 0..<first.count {
