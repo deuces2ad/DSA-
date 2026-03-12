@@ -13,7 +13,6 @@ func lengthOfLongestSubstring(_ s: String) -> Int {
     var set = Set<Character>()
     var maxLength = 0
     for i in 0..<arr.count {
-        
         while set.contains(arr[i]) {
             set.remove(arr[left])
             left += 1
