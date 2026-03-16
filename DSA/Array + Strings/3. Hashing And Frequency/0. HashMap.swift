@@ -7,17 +7,15 @@
 
 import Foundation
 
+// MARK: - Phase 1: Basic Lookup
+
 //Two Sum — https://leetcode.com/problems/two-sum/
 
 //Contains Duplicate — https://leetcode.com/problems/contains-duplicate/
 
-//Intersection of Two Arrays — https://leetcode.com/problems/intersection-of-two-arrays/
-
-//Intersection of Two Arrays II — https://leetcode.com/problems/intersection-of-two-arrays-ii/
+// MARK: - Phase 2: Frequency Count
 
 //Valid Anagram — https://leetcode.com/problems/valid-anagram/
-
-//Group Anagrams — https://leetcode.com/problems/group-anagrams/
 
 //Ransom Note — https://leetcode.com/problems/ransom-note/
 
@@ -25,13 +23,27 @@ import Foundation
 
 //First Unique Character in a String — https://leetcode.com/problems/first-unique-character-in-a-string/
 
+//Majority Element — https://leetcode.com/problems/majority-element/
+
+//Longest Palindrome — https://leetcode.com/problems/longest-palindrome/
+
+//Number of Pairs — https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/ // ← added
+
+// MARK: - Phase 3: Pattern Mapping
+
 //Isomorphic Strings — https://leetcode.com/problems/isomorphic-strings/
 
 //Word Pattern — https://leetcode.com/problems/word-pattern/
 
-//Longest Palindrome — https://leetcode.com/problems/longest-palindrome/
+// MARK: - Phase 4: Grouping / Set Operations
 
-//Majority Element — https://leetcode.com/problems/majority-element/
+//Group Anagrams — https://leetcode.com/problems/group-anagrams/
+
+//Intersection of Two Arrays — https://leetcode.com/problems/intersection-of-two-arrays/
+
+//Intersection of Two Arrays II — https://leetcode.com/problems/intersection-of-two-arrays-ii/
+
+// MARK: - Phase 5: Frequency + Sorting
 
 //Sort Characters By Frequency — https://leetcode.com/problems/sort-characters-by-frequency/
 
@@ -39,10 +51,26 @@ import Foundation
 
 //Top K Frequent Words — https://leetcode.com/problems/top-k-frequent-words/
 
-//Subarray Sum Equals K — https://leetcode.com/problems/subarray-sum-equals-k/
+// MARK: - Phase 6: Two Sum Variants
 
-//Continuous Subarray Sum — https://leetcode.com/problems/continuous-subarray-sum/
+//4Sum II — https://leetcode.com/problems/4sum-ii/ // ← added
 
-//Maximum Size Subarray Sum Equals K — https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/
+// MARK: - Phase 7: Index Mapping
 
-//Longest Consecutive Sequence — https://leetcode.com/problems/longest-consecutive-sequence/
+//Longest Consecutive Sequence — https://leetcode.com/problems/longest-consecutive-sequence/ // ← added
+
+//Repeated DNA Sequences — https://leetcode.com/problems/repeated-dna-sequences/ // ← added
+
+// MARK: - Phase 8: HashMap + Prefix Sum Bridge
+
+//Subarray Sum Equals K — https://leetcode.com/problems/subarray-sum-equals-k/ // ← revisit from Prefix Sum
+
+// MARK: - Phase 9: HashMap + Greedy
+
+//Hand of Straights — https://leetcode.com/problems/hand-of-straights/ // ← added
+
+//Task Scheduler — https://leetcode.com/problems/task-scheduler/ // ← revisit from Greedy
+
+// MARK: - Phase 10: Design
+
+//Insert Delete GetRandom O(1) — https://leetcode.com/problems/insert-delete-getrandom-o1/ // ← added

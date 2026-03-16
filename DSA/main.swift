@@ -35,6 +35,6 @@ myLinkedList.addAtTail(3)
 myLinkedList.addAtTail(4)
 myLinkedList.addAtTail(5)
 
-var arr = [3,3]
-let ans = twoSum(arr, 6)
+var arr = [1,2,3]
+let ans = subarraySumII(arr, 3)
 print(ans)
