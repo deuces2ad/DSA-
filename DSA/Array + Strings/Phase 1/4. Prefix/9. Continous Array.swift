@@ -7,7 +7,7 @@
 
 import Foundation
 
-func subarraysDivByK(_ arr: [Int], _ k: Int) -> Int {
+func subarraysDivByKII(_ arr: [Int], _ k: Int) -> Int {
     var count = 0
     var hashMap: [Int: Int] = [0:1]
     var prefixSum = 0

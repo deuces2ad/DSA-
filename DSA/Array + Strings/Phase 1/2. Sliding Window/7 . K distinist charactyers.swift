@@ -12,6 +12,7 @@ func logestSubStringWithDistinctCharacters( _ s: String, k: Int) -> Int {
     var left = 0
     var maxLength = Int.min
     var freqMap: [Character: Int] = [:]
+ 
     
     for i in 0..<arr.count {
         freqMap[arr[i], default: 0] += 1
