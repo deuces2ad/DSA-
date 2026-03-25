@@ -48,3 +48,19 @@ func maxiMumSizeSubArrI( _ arr: [Int], _ k: Int) -> Int {
     }
     return maxLength
 }
+
+func maximumSizeSubArray( _ arr: [Int], _ k: Int) -> Int {
+    var map:[Int: Int] = [0: -1]
+    var prefixSum = 0
+    var maxLength = 0
+    for i in 0..<arr.count {
+        prefixSum += arr[i]
+        if let index = map[prefixSum - k] {
+            maxLength = max(maxLength, i - index)
+        }
+        if map[prefixSum] == nil {
+            map[prefixSum] = i
+        }
+    }
+    return maxLength
+}
