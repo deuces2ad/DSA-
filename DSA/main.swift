@@ -28,6 +28,24 @@ import Foundation
 //
 //print(ans)
 
-let ans = maxProfitII([7,1,5,3,6,4])
-print(ans)
+
+// Swift — tujhe manually Sequence + IteratorProtocol implement karna padta
+struct CountUp: Sequence, IteratorProtocol {
+    var current = 0
+    let limit: Int
+    
+    mutating func next() -> Int? {
+        guard current < limit else { return nil }
+        defer {
+            print("runnimg defer")
+            current += 1
+        }
+        return current
+    }
+}
+let counter = CountUp(limit: 3)
+
+for value in counter {
+    print(value)
+}
 
