@@ -27,9 +27,23 @@
 		E2122D3C2F740E240010FFC2 /* DSA Study Plan - March 25 to May 31.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DSA Study Plan - March 25 to May 31.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		E245D2D52F7F7C120009D419 /* Exceptions for "DSA" folder in "DSA" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				"Array + Strings/Phase 3/8. LinkedList/0_Linked_List.swift",
+				"Graph,DP,/0 Trie.swift",
+			);
+			target = E206566D2F44B36000E6B409 /* DSA */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		E20656702F44B36000E6B409 /* DSA */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				E245D2D52F7F7C120009D419 /* Exceptions for "DSA" folder in "DSA" target */,
+			);
 			path = DSA;
 			sourceTree = "<group>";
 		};

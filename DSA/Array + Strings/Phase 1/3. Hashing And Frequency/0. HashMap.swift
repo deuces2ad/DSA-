@@ -82,3 +82,17 @@ import Foundation
 //Random Pick with Weight — https://leetcode.com/problems/random-pick-with-weight/ // ← Multiple
 
 //Design HashMap — https://leetcode.com/problems/design-hashmap/ // ← Multiple
+//Encode and Decode Strings — https://leetcode.com/problems/encode-and-decode-strings/ // ← Meta, Google
+
+//Valid Sudoku — https://leetcode.com/problems/valid-sudoku/ // ← Amazon, Microsoft
+
+//Custom Sort String — https://leetcode.com/problems/custom-sort-string/ // ← Google
+
+//Minimum Rounds to Complete All Tasks — https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/ // ← Razorpay, Swiggy
+//Brick Wall — https://leetcode.com/problems/brick-wall/ // ← Meta
+
+//Majority Element II — https://leetcode.com/problems/majority-element-ii/ // ← Google, Razorpay
+
+//Count Pairs With Given Sum — https://www.geeksforgeeks.org/count-pairs-with-given-sum/ // ← GFG, Flipkart
+
+

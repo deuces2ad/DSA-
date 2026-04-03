@@ -44,3 +44,11 @@ import Foundation
 //Product of Array Except Self — https://leetcode.com/problems/product-of-array-except-self/ // ← Amazon (prefix+suffix trick)
 
 //Number of Ways to Split Array — https://leetcode.com/problems/number-of-ways-to-split-array/ // ← Multiple
+//Make Sum Divisible by P — https://leetcode.com/problems/make-sum-divisible-by-p/ // ← Zepto, Razorpay
+
+//Find the Highest Altitude — https://leetcode.com/problems/find-the-highest-altitude/ // ← Warmup, Multiple
+
+//Sum of Absolute Differences in Sorted Array — https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/ // ← Amazon
+//Minimum Penalty for a Shop — https://leetcode.com/problems/minimum-penalty-for-a-shop/ // ← Google
+
+

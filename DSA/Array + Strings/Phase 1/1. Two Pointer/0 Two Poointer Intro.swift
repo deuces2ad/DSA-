@@ -85,3 +85,18 @@ import Foundation
 
 //[32] Minimum Difference Between Highest and Lowest of K Scores — https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/ // ← Multiple
 
+//[33] Next Permutation — https://leetcode.com/problems/next-permutation/ // ← Amazon, Google, Flipkart
+//[34] Merge Sorted Array (in-place) — https://leetcode.com/problems/merge-sorted-array/ // ← Amazon, Microsoft
+
+//[35] String Compression — https://leetcode.com/problems/string-compression/ // ← Goldman, Amazon
+
+//[36] Longest Common Prefix — https://leetcode.com/problems/longest-common-prefix/ // ← Amazon, Google, Flipkart
+//[37] Spiral Matrix — https://leetcode.com/problems/spiral-matrix/ // ← Amazon, Microsoft, Walmart
+
+//[38] Rotate Image — https://leetcode.com/problems/rotate-image/ // ← Amazon, Google, Microsoft
+
+//[39] Set Matrix Zeroes — https://leetcode.com/problems/set-matrix-zeroes/ // ← Amazon, Meta, Flipkart
+
+//[40] Majority Element II (>n/3) — https://leetcode.com/problems/majority-element-ii/ // ← Google, Razorpay
+
+
