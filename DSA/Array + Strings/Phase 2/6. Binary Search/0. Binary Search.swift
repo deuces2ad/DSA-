@@ -82,6 +82,8 @@ import Foundation
 
 //[23] Painter's Partition — https://www.geeksforgeeks.org/painters-partition-problem/ // split twin
 
+// https://leetcode.com/problems/heaters/description/ [Microsft]
+
 // MARK: - Phase 7: Binary Search + Two Pointer
 
 //[24] Find K Closest Elements — https://leetcode.com/problems/find-k-closest-elements/
